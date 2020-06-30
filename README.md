@@ -17,3 +17,5 @@ The codeblock with the block of print() statements creates two .txt files.
 <br>
 - b1s1.txt containing buy-side (over) and sell-side (under) results.
 <br>
+
+The real-time total points model (rtTp) is copyright 2020 Jerold Larson. All rights reserved
