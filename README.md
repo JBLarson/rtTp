@@ -5,20 +5,20 @@ Real-time total point model. Visualize offsetting over/under wagers.
 
 
 <br><br>
-Install Requirements
+Install Requirements, Execute tp_write, Execute tp_read
 -
 
-<br><br>
-Execute tp_write, Execute tp_read
--
-
-<br><br>
-Adjust and Execute tp_write
--
 
 <br><br>
 
 [<img src="https://abovethebook.files.wordpress.com/2020/06/rttp_example-1.png">](http://abovethebook.files.wordpress.com/)
+
+
+
+<br><br>
+Adjust and execute tp_write to manipulate visual 
+-
+
 
 <br>
 <br>
