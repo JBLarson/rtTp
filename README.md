@@ -15,4 +15,9 @@ Wager results are calculated, and net values calculated.
 - b1s1 contains buy-side (over) and sell-side (under) results.
 <br>
 
+![Python application](https://github.com/AbovetheBook/rtTp/workflows/Python%20application/badge.svg)
+
+[<img src="https://abovethebook.files.wordpress.com/2020/06/rttp_example-1.png">](http://abovethebook.files.wordpress.com/)
+
+
 The real-time total points model (rtTp) is copyright 2020 Jerold Larson. All rights reserved
