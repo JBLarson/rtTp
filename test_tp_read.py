@@ -8,7 +8,7 @@ fig = plt.figure(figsize=(10, 6))
 ax1, ax2 = fig.add_subplot(221), fig.add_subplot(222)
 ax3, ax4 = fig.add_subplot(223), fig.add_subplot(224)
 
-def test_animate(i):
+def test_animate():
 	pullData = open("rezults.txt","r").read()
 	dataArray = pullData.split('\n')
 	pts, net, b1, s1 = [], [], [], []
