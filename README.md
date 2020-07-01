@@ -1,23 +1,29 @@
 # rtTp
 Real-time total point model. Visualize offsetting over/under wagers.
-<br><br>
-Install Requirements.
--
-<br>
-tp_write
--
-
-<br>
-Wager results are calculated, and net values calculated.
-<br>
-- rezults contains point range and net result sets.
-<br>
-- b1s1 contains buy-side (over) and sell-side (under) results.
-<br>
 
 ![Python application](https://github.com/AbovetheBook/rtTp/workflows/Python%20application/badge.svg)
 
+
+<br><br>
+Install Requirements
+-
+<br>
+Execute tp_write
+-
+
+<br>
+Execute tp_read
+-
+<br>
+Adjust and Execute tp_write
+-
+<br><br>
+
 [<img src="https://abovethebook.files.wordpress.com/2020/06/rttp_example-1.png">](http://abovethebook.files.wordpress.com/)
 
+<br>
+<br>
+The real-time total points model (rtTp) is the property of Jerold Larson.
+<br>
+©2020 Jerold Larson. All Rights Reserved.
 
-The real-time total points model (rtTp) is copyright 2020 Jerold Larson. All rights reserved
