@@ -35,4 +35,3 @@ def test_tp_write():
 	print(s1T)
 
 test_tp_write()
-
