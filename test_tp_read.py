@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import time
 
-from tp_write import b1T, s1T
+from test_tp_write import b1T, s1T
 
 fig = plt.figure(figsize=(10, 6))
 ax1, ax2 = fig.add_subplot(221), fig.add_subplot(222)
