@@ -9,11 +9,7 @@ Install Requirements
 -
 
 <br><br>
-Execute tp_write
--
-
-<br><br>
-Execute tp_read
+Execute tp_write, Execute tp_read
 -
 
 <br><br>
