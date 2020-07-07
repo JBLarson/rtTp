@@ -10,12 +10,6 @@ Install Requirements, Execute tp_write, Execute tp_read
 
 
 <br><br>
-
-[<img src="https://abovethebook.files.wordpress.com/2020/06/rttp_example-1.png">](http://abovethebook.files.wordpress.com/)
-
-
-
-<br><br>
 Adjust and execute tp_write to manipulate visual 
 -
 
